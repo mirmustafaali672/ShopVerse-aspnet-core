@@ -14,6 +14,7 @@ namespace ShopVerse.EntityFrameworkCore
         }
         public DbSet<Demo> Demos { get; set; }
         public DbSet<Brand> Brands { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -38,6 +39,12 @@ namespace ShopVerse.EntityFrameworkCore
                 entity.HasIndex( e => e.Name).IsUnique();
                 entity.Property( e => e.CountryOfOrigin).IsRequired();
                 entity.Property( e => e.DateEstablished).IsRequired();
+            });
+
+            modelBuilder.Entity<Category> ( entity =>
+            {
+                entity.ToTable("Categories", ShopVerseConts.AppName);
+                entity.Property( e => e.Name).IsRequired();
             });
         }
         

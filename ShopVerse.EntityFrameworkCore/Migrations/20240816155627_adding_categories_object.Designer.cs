@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShopVerse.EntityFrameworkCore;
 
@@ -11,9 +12,11 @@ using ShopVerse.EntityFrameworkCore;
 namespace ShopVerse.EntityFrameworkCore.Migrations
 {
     [DbContext(typeof(ShopVerseDbContext))]
-    partial class ShopVerseDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240816155627_adding_categories_object")]
+    partial class adding_categories_object
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
