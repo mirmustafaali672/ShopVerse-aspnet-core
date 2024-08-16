@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MyApp.Application.Mappings;
+using ShopVerse.Brands;
 using ShopVerse.Demos;
 using ShopVerse.EntityFrameworkCore;
 
@@ -11,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<ShopVerseDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IDemoAppService, DemoAppService>();
+builder.Services.AddScoped<IBrandAppService, BrandAppService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

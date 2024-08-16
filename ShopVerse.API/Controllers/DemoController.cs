@@ -3,7 +3,7 @@ using ShopVerse.Demos;
 namespace ShopVerse.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]/Brands")]
     public class DemoController : ControllerBase
     {
         private readonly IDemoAppService _demoAppService;

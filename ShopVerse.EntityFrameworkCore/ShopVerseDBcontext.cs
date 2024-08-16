@@ -1,7 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using ShopVerse.Brands;
 using ShopVerse.Demos;
-using ShopVerse.Domain;
 using ShopVerse.Shared.Constants;
+
 
 namespace ShopVerse.EntityFrameworkCore
 {
@@ -12,6 +13,7 @@ namespace ShopVerse.EntityFrameworkCore
         {
         }
         public DbSet<Demo> Demos { get; set; }
+        public DbSet<Brand> Brands { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -19,8 +21,7 @@ namespace ShopVerse.EntityFrameworkCore
 
             modelBuilder.Entity<Demo>(entity =>
             {
-                // Specify the table name
-                entity.ToTable("Tablename", ShopVerseConts.AppName);
+                entity.ToTable("Demos", ShopVerseConts.AppName);
                 entity.HasKey(e => e.Id);
                 entity.Property(e => e.Id).IsRequired();
                 entity.Property(e => e.Name)
@@ -28,6 +29,15 @@ namespace ShopVerse.EntityFrameworkCore
                     .HasMaxLength(100);
                 entity.HasIndex(e => e.Name)
                     .IsUnique();
+            });
+
+            modelBuilder.Entity<Brand>( entity =>
+            {
+                entity.ToTable("Brands", ShopVerseConts.AppName);
+                entity.Property( e => e.Name).IsRequired();
+                entity.HasIndex( e => e.Name).IsUnique();
+                entity.Property( e => e.CountryOfOrigin).IsRequired();
+                entity.Property( e => e.DateEstablished).IsRequired();
             });
         }
         
