@@ -3,6 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVerse.EntityFrameworkCore", "ShopVerse.EntityFrameworkCore\ShopVerse.EntityFrameworkCore.csproj", "{8CF93215-931A-4732-AB78-A725E36DB269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVerse.Application", "ShopVerse.Application\ShopVerse.Application.csproj", "{13552BBC-98E8-457B-9244-F10393F9F7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVerse.API", "ShopVerse.API\ShopVerse.API.csproj", "{800637C2-176B-4756-A95C-03B53AE5B1B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVerse.Domain", "ShopVerse.Domain\ShopVerse.Domain.csproj", "{F14507AC-2BF5-49E2-87D9-FC5E4E11A2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVerse.Shared", "ShopVerse.Shared\ShopVerse.Shared.csproj", "{CF7718C8-79E3-48CF-A905-36E51BAF9EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVerse.Infrastructure", "ShopVerse.Infrastructure\ShopVerse.Infrastructure.csproj", "{C2D7B585-3056-4C8B-9D05-721814CEAB55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +22,31 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF93215-931A-4732-AB78-A725E36DB269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF93215-931A-4732-AB78-A725E36DB269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF93215-931A-4732-AB78-A725E36DB269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF93215-931A-4732-AB78-A725E36DB269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13552BBC-98E8-457B-9244-F10393F9F7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13552BBC-98E8-457B-9244-F10393F9F7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13552BBC-98E8-457B-9244-F10393F9F7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13552BBC-98E8-457B-9244-F10393F9F7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800637C2-176B-4756-A95C-03B53AE5B1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800637C2-176B-4756-A95C-03B53AE5B1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800637C2-176B-4756-A95C-03B53AE5B1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800637C2-176B-4756-A95C-03B53AE5B1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14507AC-2BF5-49E2-87D9-FC5E4E11A2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14507AC-2BF5-49E2-87D9-FC5E4E11A2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14507AC-2BF5-49E2-87D9-FC5E4E11A2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14507AC-2BF5-49E2-87D9-FC5E4E11A2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7718C8-79E3-48CF-A905-36E51BAF9EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7718C8-79E3-48CF-A905-36E51BAF9EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7718C8-79E3-48CF-A905-36E51BAF9EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7718C8-79E3-48CF-A905-36E51BAF9EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D7B585-3056-4C8B-9D05-721814CEAB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D7B585-3056-4C8B-9D05-721814CEAB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D7B585-3056-4C8B-9D05-721814CEAB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D7B585-3056-4C8B-9D05-721814CEAB55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
