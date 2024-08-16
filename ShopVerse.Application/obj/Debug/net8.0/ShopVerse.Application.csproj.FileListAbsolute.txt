@@ -1,0 +1,17 @@
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Application.deps.json
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Application.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Application.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Domain.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Shared.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Domain.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\bin\Debug\net8.0\ShopVerse.Shared.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.csproj.AssemblyReference.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.AssemblyInfoInputs.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.AssemblyInfo.cs
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.csproj.CoreCompileInputs.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVers.2A85EEBD.Up2Date
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\refint\ShopVerse.Application.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ShopVerse.Application.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Application\obj\Debug\net8.0\ref\ShopVerse.Application.dll

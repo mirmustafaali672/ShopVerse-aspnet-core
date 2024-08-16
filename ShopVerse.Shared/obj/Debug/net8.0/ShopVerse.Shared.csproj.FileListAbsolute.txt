@@ -1,0 +1,11 @@
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\bin\Debug\net8.0\ShopVerse.Shared.deps.json
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\bin\Debug\net8.0\ShopVerse.Shared.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\bin\Debug\net8.0\ShopVerse.Shared.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.AssemblyInfoInputs.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.AssemblyInfo.cs
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.csproj.CoreCompileInputs.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\refint\ShopVerse.Shared.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ref\ShopVerse.Shared.dll
