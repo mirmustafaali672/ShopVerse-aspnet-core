@@ -40,3 +40,4 @@ C:\Work\ShopVerse\aspnet-core\ShopVerse.API\obj\Debug\net8.0\refint\ShopVerse.AP
 C:\Work\ShopVerse\aspnet-core\ShopVerse.API\obj\Debug\net8.0\ShopVerse.API.pdb
 C:\Work\ShopVerse\aspnet-core\ShopVerse.API\obj\Debug\net8.0\ShopVerse.API.genruntimeconfig.cache
 C:\Work\ShopVerse\aspnet-core\ShopVerse.API\obj\Debug\net8.0\ref\ShopVerse.API.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.API\obj\Debug\net8.0\ShopVerse.API.sourcelink.json

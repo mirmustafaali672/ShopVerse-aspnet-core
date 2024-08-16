@@ -9,3 +9,4 @@ C:\Work\ShopVerse\aspnet-core\ShopVerse.Domain\obj\Debug\net8.0\ShopVerse.Domain
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Domain\obj\Debug\net8.0\refint\ShopVerse.Domain.dll
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Domain\obj\Debug\net8.0\ShopVerse.Domain.pdb
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Domain\obj\Debug\net8.0\ref\ShopVerse.Domain.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Domain\obj\Debug\net8.0\ShopVerse.Domain.sourcelink.json

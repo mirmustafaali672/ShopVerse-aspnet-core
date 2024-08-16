@@ -1,0 +1,16 @@
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\bin\Debug\net8.0\ShopVerse.EntityFrameworkCore.deps.json
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\bin\Debug\net8.0\ShopVerse.EntityFrameworkCore.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\bin\Debug\net8.0\ShopVerse.EntityFrameworkCore.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\bin\Debug\net8.0\ShopVerse.Domain.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\bin\Debug\net8.0\ShopVerse.Domain.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.AssemblyInfo.cs
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.sourcelink.json
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVers.AEBBFFB7.Up2Date
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\refint\ShopVerse.EntityFrameworkCore.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ShopVerse.EntityFrameworkCore.pdb
+C:\Work\ShopVerse\aspnet-core\ShopVerse.EntityFrameworkCore\obj\Debug\net8.0\ref\ShopVerse.EntityFrameworkCore.dll

@@ -17,3 +17,4 @@ C:\Work\ShopVerse\aspnet-core\ShopVerse.Infrastructure\obj\Debug\net8.0\ShopVers
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Infrastructure\obj\Debug\net8.0\refint\ShopVerse.Infrastructure.dll
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Infrastructure\obj\Debug\net8.0\ShopVerse.Infrastructure.pdb
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Infrastructure\obj\Debug\net8.0\ref\ShopVerse.Infrastructure.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Infrastructure\obj\Debug\net8.0\ShopVerse.Infrastructure.sourcelink.json

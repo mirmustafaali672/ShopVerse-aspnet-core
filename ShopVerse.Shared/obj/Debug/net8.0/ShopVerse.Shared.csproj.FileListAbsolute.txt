@@ -9,3 +9,4 @@ C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\refint\ShopVerse.Shared.dll
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.pdb
 C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ref\ShopVerse.Shared.dll
+C:\Work\ShopVerse\aspnet-core\ShopVerse.Shared\obj\Debug\net8.0\ShopVerse.Shared.sourcelink.json
