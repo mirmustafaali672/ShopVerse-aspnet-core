@@ -3,6 +3,11 @@
   <ItemGroup>
     <ProjectReference Include="..\ShopVerse.Domain\ShopVerse.Domain.csproj" />
     <ProjectReference Include="..\ShopVerse.Shared\ShopVerse.Shared.csproj" />
+    <ProjectReference Include="..\ShopVerse.EntityFrameworkCore\ShopVerse.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
   </ItemGroup>
 
   <PropertyGroup>
