@@ -1,0 +1,41 @@
+# Ignore build and publish directories
+bin/
+obj/
+publish/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore other IDE-specific files
+.vscode/
+.idea/
+
+# Ignore debug and release files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+
+# Ignore local db files
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+
+# Ignore ASP.NET Core secrets file
+secrets.json
+
+# Ignore VS Code workspace settings
+.settings/
+
+# Ignore other possible files
+*.swp
+*.swo
