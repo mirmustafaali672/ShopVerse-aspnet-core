@@ -4,6 +4,7 @@ using ShopVerse.Brands;
 using ShopVerse.Categories;
 using ShopVerse.Demos;
 using ShopVerse.EntityFrameworkCore;
+using ShopVerse.Products;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,7 @@ builder.Services.AddDbContext<ShopVerseDbContext>(options =>
 builder.Services.AddScoped<IDemoAppService, DemoAppService>();
 builder.Services.AddScoped<IBrandAppService, BrandAppService>();
 builder.Services.AddScoped<ICategoryAppService, CategoryAppService>();
+builder.Services.AddScoped<IProductAppService, ProductAppService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
